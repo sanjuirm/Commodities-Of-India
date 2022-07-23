@@ -14,3 +14,5 @@
 **NOTE:**
 1. The main dataset(1) may contain `Missing State Name` or `Outdated State Name` or both.(Like in case of data related to India). It can be solved by `Geoencoding` for reverse lookup of State Name by using `Lattitude` and `Longitude` values. 
 2. Here `TOTAL NO OF COMMODITY` indicates total no of its occurence in each State or in India. 
+3. IN CASE if the Notebook fails to render or takes too long to render, goto 
+https://nbviewer.org/github/sanjuirm/Commodities-Of-India/blob/main/India%27s%20Commodity.ipynb
